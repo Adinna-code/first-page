@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.topbar {
+    position: relative;
+    background-color: purple;
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
