@@ -13,3 +13,43 @@ body {
     justify-content: flex-end;
     align-items: center;
 }
+
+button {
+    padding: 8px 12px;
+    margin-right: 50px;
+    background-color:white;
+    color: purple;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header {
+    position: relative;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: purple;
+    color: white;
+    padding: 8px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-right: 50px;
+}
