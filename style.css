@@ -57,7 +57,7 @@ ul {
 .container {
     display: flex;
     justify-content: center;
-    background-image: url(/back-title.png);
+    background-image: url("back-title.png");
     color: #fff;
     min-height: 300px;
 }
